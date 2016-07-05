@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b0a07fdc5f2a1eb3f6f6d47ca2d21f04ba21b00f">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_06f5f99a136bd5f25943579ef58604fcfa349f62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_4f8bc810d29d0a7013a14cac20b7e1ad90d7d728.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_c986bfc607a06e04038e392a79cfbca9ae645a5b.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a82e3e27f1076d90930269d61d9e5aaca253328">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_bcbd26de0bc79b123332fadf0500539382fee772.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b84a9e0d3e85e2acf144774024c985209fc56ba">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\umeng_social_sdk_a796391c56d50a8a895c64b6f0bc34dbf5c5ff13.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_d582bcab6bdda31e0d976175fc42d42c6d2636cc.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82579861206ecd0ab9d9ea2fb1e78135e755ede7">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_c725e40799ca9c28aa51c03f186be75fd61214fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\gson-2.5_94f1bc16af0e40fede3fc03f0ab9d4a7a3f5c7b8.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_73e7e9599fb717911f851e060c6b1c5831393e89.jar" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d3af3516828f1fafa6b10dfa75ec5043a8b5210a.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9dcadfa2d695957170df5f77b6ba6b5bb86f06c9">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0eb9d5bbbca6ec0927d87aaa8efe9e2508019ff9.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a3b63c225b20257963781cfc2600fdc27679319c">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina_3bd4b5b6dd8d5a303efb5a0c6cf3b7f993c0fb80.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3617ce51258bf3ec0fe2503e3c0a920040b1b53">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\weiboSDKCore_3.1.4_ffd868ab364326cd0eb57258a4dec9f020c0345f.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_3602418c30d1f874b110720eafbf25f2d522dc51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_906d882999600e6c68021285dbe2101b236ee2c7.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_85cc10cfde6b72688849d686deff3c7136fd7316.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53ad8c8182e8b31693ad2eb7cf4e3c3aba9f0247">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\instant-run_61e5d2d269234179371a34d81b635834d5e3d53b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\glide-3.7.0_3f2d6d7ce015d14a119b13c667c968cd0aceaf92.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_f43a7b38bab31e00f1ebea59899124ad79c0b18a.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\open_sdk_r5509.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="538ea8fb21ea76e8cb424598ac38127cb3344d79">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\open_sdk_r5509_48d83ab175f3be75a980d48821d806fc953e38ea.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_64940ae4e0a1bb315590f5e801ef877cb8c06558.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_8aeed8eeb259985971f796404eeb50a5407d48f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kevin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\okio-1.8.0_388b18c6841fb902c6f84c15b0e971b67ac9797e.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\DiliGroup\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\GitHub\DiliGroup\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_b64e4249bd51677690e86acc449027a10d521f6a.jar" />
+    </item>
+
+</items>
